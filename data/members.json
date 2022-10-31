@@ -1,0 +1,38 @@
+{
+  "data": [
+    {
+      "is_complete": 1,
+      "is_indiv_member": "1",
+      "id": 124,
+      "district": "APAC",
+      "group_id": 69,
+      "name": "Sande Alupo",
+      "created_at": "2022-09-20",
+      "membership_no": "1200001",
+      "group": "Salaman Closed Group"
+    },
+    {
+      "is_complete": 1,
+      "is_indiv_member": "1",
+      "id": 123,
+      "district": "JINJA",
+      "group_id": 68,
+      "name": "Samantha Mukola",
+      "created_at": "2022-09-19",
+      "membership_no": "1298298",
+      "group": "Maisha Group"
+    },
+    {
+      "is_complete": 1,
+      "is_indiv_member": "0",
+      "id": 122,
+      "district": "KAMPALA",
+      "group_id": null,
+      "name": "Maurice Kubitsu",
+      "created_at": "2022-09-19",
+      "membership_no": "12001",
+      "group": "N/A"
+    }
+  ],
+  "count": 3
+}
