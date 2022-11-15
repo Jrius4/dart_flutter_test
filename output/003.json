@@ -1,0 +1,480 @@
+[
+    {
+        "label": "1 a) select member's occupation",
+        "answer": [
+            "Medical"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "1 d) what's your employment status?",
+        "answer": [
+            "Self Employed"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "1 e) what's your employer's name?",
+        "answer": null,
+        "fieldtype": "Null"
+    },
+    {
+        "label": "1 f) provide details of employment",
+        "answer": null,
+        "fieldtype": "Null"
+    },
+    {
+        "label": "2 a) what's your gender?",
+        "answer": [
+            "Male"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 a) what is your marital status?",
+        "answer": "Single",
+        "fieldtype": "String"
+    },
+    {
+        "label": "3 b) if married, what's your husband/wife’s name?",
+        "answer": null,
+        "fieldtype": "Null"
+    },
+    {
+        "label": "4 a) provide your telephone number",
+        "answer": "078839292019",
+        "fieldtype": "String"
+    },
+    {
+        "label": "4 b) provide your email address",
+        "answer": "frank@test.com",
+        "fieldtype": "String"
+    },
+    {
+        "label": "5 a) who is your next of kin?",
+        "answer": "Mkutya James",
+        "fieldtype": "String"
+    },
+    {
+        "label": "5 b) provide next of kin's telephone number",
+        "answer": "0775493200",
+        "fieldtype": "String"
+    },
+    {
+        "label": "6 if) you have any known chronic or terminal illness that you would like the society to be aware of, please state it for the record",
+        "answer": [
+            "hepitisis"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "7 do) you own or rent your house?",
+        "answer": [
+            "Own"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "1 what) informed your decision to join this cooperative?",
+        "answer": [
+            "Training",
+            "Production"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "2 a) how many shares do you have in the cooperative?",
+        "answer": "5",
+        "fieldtype": "String"
+    },
+    {
+        "label": "2 b) what is the worth of your shares in uganda shillings?",
+        "answer": "50000",
+        "fieldtype": "String"
+    },
+    {
+        "label": "3 a) do you have a savings account with the cooperative?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 b) how much do u save per month?",
+        "answer": "30000",
+        "fieldtype": "String"
+    },
+    {
+        "label": "3 c) what is the frequency of your saving?",
+        "answer": [
+            "Weekly"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 d) what is your motivation for saving?",
+        "answer": [
+            "For future personal expenses"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 e) if you save in cash what medium do you use?",
+        "answer": [
+            "Mobile Money",
+            "Bank"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "4 a) how often do u save?",
+        "answer": [
+            "Daily"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "4 b) do you earn an interest on your money?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "4 c) do you receive receipts from your cooperative when you save?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "5 how) often can you access your money?",
+        "answer": [
+            "Whenever I need it"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "6 if) you save in kind, what volume of produce do you save bulk each time you save with your cooperative?",
+        "answer": [
+            "1 – 10Kgs/ltr"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "7 what) do you perceive as your roles as a member of the cooperative?",
+        "answer": [
+            "To Attend and participate in meetings",
+            "To protect and defend our cooperative against any form of danger"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "8 as) a member of the cooperative, what do you perceive as your rights?",
+        "answer": [
+            "To Attend and participate in meetings",
+            "To Privacy and confidentiality",
+            "To be paid what is due"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "9 what) benefits have you received from the cooperative since joining?",
+        "answer": [
+            "Loans",
+            "Marketing"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "10 do) you understand the importance of the annual general meeting?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 a) since you joined the cooperative have you attended any annual general meeting?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 b) how useful was the meeting to you?",
+        "answer": [
+            "I was able to elect the our cooperative leaders",
+            "I made suggestions for the improvement of our cooperative"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 d) have you ever read the by-laws of your cooperative?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 e) please state the reasons why",
+        "answer": [
+            null
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 f) have you ever read the final audit report of your cooperative?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 g) please state the reasons why",
+        "answer": [
+            null
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 h) do you have any fears about being a member of this cooperative?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 i) tick why this is the case",
+        "answer": [
+            "I will lose money",
+            "The cooperative will die"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "11 j) how do you think these fears can be addressed?",
+        "answer": [
+            "By attending and participating in all cooperative affairs, Eg AGM, Meetings, Trainings etc"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "12 what) do you expect to have gained from the cooperative 5 years from now?",
+        "answer": [
+            "Increase my savings and household income",
+            "I will have grown in the leadership of the cooperative and community",
+            "To increase my knowledge and skills for the betterment of my cooperative and business"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "13 as) a member where do you want to see your cooperative in 5 or more years from now",
+        "answer": [
+            "To grow into a bank",
+            "To own properties"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "14 what) are you going to do to contribute to this aspiration you have mentioned above cooperative?",
+        "answer": [
+            "Vote the right leaders",
+            "Attend and participate in meetings and trainings"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "15 would) you encourage other people to join your cooperative?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "1 a) have you ever been to school?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "1 b) select your educational profile",
+        "answer": [
+            "Primary School and qualification",
+            "Secondary School and qualification"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "2 a) do you have children?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "2 b) how many children do you have?",
+        "answer": [
+            "6-10",
+            "16-20"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 a) have you received any training since joining the cooperative?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 b) give reasons why you may have not have received any training since joining the cooperative",
+        "answer": [
+            null
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 c) list the training you have received in the last 3 years",
+        "answer": [
+            "Training Subject e.g. financial literacy, agronomy, governance, record keeping.",
+            "Sponsored by"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "4 what) kind of training have you received?",
+        "answer": [
+            "Financial Literacy"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "5 a) how have these trainings helped you?",
+        "answer": [
+            "Understand and involved in my cooperative better"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "5 b) mention at least 3 knowledge or skill gaps you wish you could fill?",
+        "answer": [
+            "Plumbering",
+            "Driving"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "1 please) use this table to understand your income sources and how you spend the money that you make on a monthly basis please ensure to provide accurate estimates if you do not keep records of your transactions",
+        "answer": {
+            "Source of Income": {
+                "1": "Plumbering",
+                "2": "Driving"
+            },
+            "Monthly income": {
+                "1": "10000",
+                "2": "50000"
+            }
+        },
+        "fieldtype": "_InternalLinkedHashMap<String, dynamic>"
+    },
+    {
+        "label": "2 a) do you have a loan?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "2 b) if you have a loan what is the amount, who is your provider and what was the purpose of the loan?",
+        "answer": {
+            "Loan Type": {
+                "1": "salary loan"
+            },
+            "Amount": {
+                "1": "1500000"
+            },
+            "Provider": {
+                "1": "Bank"
+            },
+            "Date Acquired": {
+                "1": "2022-11-11"
+            },
+            "Payment Period": {
+                "1": "Mobile Money"
+            },
+            "Purpose": {
+                "1": "morage"
+            }
+        },
+        "fieldtype": "_InternalLinkedHashMap<String, dynamic>"
+    },
+    {
+        "label": "2 c) what is the interest rate on your loan in percentage terms per annum?",
+        "answer": [
+            "7-12"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "2 d) is the source of your loan repayment income?",
+        "answer": [
+            "Salary and wages"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 a) do you have a bank account?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "3 b) if yes, what is the average monthly amount banked, the purpose of the account and who is the provider?",
+        "answer": {
+            "Bank Account type": {
+                "1": "fixed"
+            },
+            "Average annual amount banked": {
+                "1": "800000"
+            },
+            "Bank name": {
+                "1": "kcb"
+            },
+            "Location of bank": {
+                "1": "kampala"
+            },
+            "Purpose": {
+                "1": "mortage"
+            }
+        },
+        "fieldtype": "_InternalLinkedHashMap<String, dynamic>"
+    },
+    {
+        "label": "4 a) have you ever been involved in any eco-social activities that benefit your community?",
+        "answer": [
+            "Yes"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "4 b) check all that apply",
+        "answer": [
+            "Agricultural tours",
+            "Education tours"
+        ],
+        "fieldtype": "List<dynamic>"
+    },
+    {
+        "label": "5 a) how has joining your cooperative impacted your livelihood?",
+        "answer": [
+            "I am now able to save more",
+            "I am more educated on various aspects of life",
+            "I am consulted in major investment decisions e.g. buying land, equipment, vehicle",
+            "I have a bank account",
+            "I have market for my produce"
+        ],
+        "fieldtype": "List<dynamic>"
+    }
+]
