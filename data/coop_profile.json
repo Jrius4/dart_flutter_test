@@ -1,0 +1,1091 @@
+{
+  "id": 126,
+  "cooperative_id": 584,
+  "field_data": [
+    {
+      "formData": {
+        "1_a_did_the_cooperative_have_a_contact_email_and_contact_telephone_details?": [
+          "Yes"
+        ],
+        "1_b_did_the_cooperative_have_an_operational_contact_email_to_enable_communication?": [
+          null
+        ],
+        "2_a_did_your_cooperative_have_a_physical_office?": [
+          "Yes"
+        ],
+        "2_b_what_is_your_ownership_status?": [
+          "A development partner is hosting us"
+        ]
+      },
+      "category_id": 85
+    },
+    {
+      "formData": {
+        "1_a_what_business_does_your_cooperative_do?": [
+          "Crop Farming",
+          "Dairy Farming",
+          "Supply of Consumer goods"
+        ],
+        "1_b_did_your_cooperative_do_business_apart_from_what_is_formally_registered_with_the_registrar?": [
+          "No"
+        ],
+        "1_c_please_state_3_reasons_why_your_cooperative_is_engaged_in_other_businesses_other_than_the_one_it_registered_to_do": [
+          null
+        ],
+        "2_my_cooperative_business_was": [
+          "Dormant (Open but not doing business)"
+        ],
+        "3_if_your_cooperative_dealt_in_products,_which_of_these_apply?": [
+          "Coffee",
+          "Sesame",
+          "Timber"
+        ],
+        "4_if_your_cooperative_was_in_agricultural_business,_please_state_if_it_had_any_of_these_provisions_for_business_continuity": [
+          "Irrigation"
+        ],
+        "5_if_the_cooperative_sold_minerals,_please_select_all_that_apply": [
+          "Gold",
+          "Clay"
+        ],
+        "6_who_supplied_raw_materials_to_the_cooperative_in_the_last_financial_year?": [
+          "Members"
+        ],
+        "7_a_did_your_cooperative_add_value_to_its_products?": [
+          "Yes"
+        ],
+        "7_b_if_yes,_please_specify_the_value_addition_activities": [
+          "Sample Value 1",
+          null
+        ],
+        "8_what_was_the_total_quantity_of_produce/_products_your_cooperative_handled_in_the_last_year?": {
+          "Product Name": {
+            "1": null
+          },
+          "null": {
+            "1": null
+          }
+        },
+        "9_a_how_much_annual_turnover_in_ugx_(total_annual_business_income)_did_your_cooperative_make_in_the_last_year?": [
+          null
+        ],
+        "9_b_if_your_cooperative_is_multipurpose_ie,_financial_products,_retail_shop,_please_specify_the_business_name_and_the_annual_turnover_in_ugx_in_each_of_the_boxes_below": {
+          "Business Name": {
+            "1": null
+          },
+          "Annual Turn Over": {
+            "1": null
+          }
+        },
+        "10_how_often_did_the_cooperative_sell_all_its_products_and/or_services?_(select_all_that_apply)": [
+          "Seasonally"
+        ],
+        "11_a_how_did_your_cooperative_market_its_products_&_services?_(select_all_that_apply)": [
+          "Customers",
+          "Online"
+        ],
+        "11_b_did_your_cooperative_have_a_logo?": [
+          "Yes"
+        ],
+        "11_c_did_your_cooperative_have_branded_materials_like_t-shirts?": [
+          "Yes"
+        ],
+        "12__where_did_the_cooperative_market_its_products/services?_(select_all_that_apply)": [
+          "Local Markets (within Uganda)",
+          "Regional Markets (within East Africa)"
+        ],
+        "13_did_your_cooperative_have_the_following_licenses?": [
+          "Trading license"
+        ],
+        "14_if_the_cooperative_exported,_please_specify_which_product(s)_the_cooperative_exported": [
+          "None",
+          null
+        ],
+        "15_a_what_was_the_distance_from_your_cooperative_to_the_nearest_market_in_kilometers?": "34",
+        "15_b_specify_the_name_of_the_nearest_market_to_your_cooperative?": "Katale Indeginous Market",
+        "16_what_challenges_did_the_cooperative_face_in_marketing?": [
+          "Expensive middle men",
+          "Poor leadership"
+        ],
+        "17_a_were_your_products_standardized?": [
+          "Yes"
+        ],
+        "17_b_if_yes,_who_standardized_your_products?": [
+          "Cooperative itself"
+        ],
+        "17_c_please_state_the_standard_measurement_equipment_used_for_your_products": [
+          null
+        ],
+        "17_d_if_no,_please_indicate_the_reasons_for_the_lack_of_standardization": [
+          null
+        ]
+      },
+      "category_id": 87
+    },
+    {
+      "formData": {
+        "2_how_many_partially_paid-up_members_did_the_cooperative_have?": "50",
+        "3_a_did_you_keep_records_on_your_members’_demographic_(ie,_age,_education,_occupation,_sex)_information?": [
+          "No"
+        ],
+        "3_b_i_please_specify_how_many_of_the_cooperative_members_were_male?": null,
+        "3_b_ii_please_specify_how_many_of_the_cooperative_members_were_female?": null,
+        "3_c_i_please_specify_how_many_of_the_cooperative_members_were_between_12_-_17_age_categories?": null,
+        "3_c_ii_please_specify_how_many_of_the_cooperative_members_were_between_18_-_30_age_categories?": null,
+        "3_c_iii_please_specify_how_many_of_the_cooperative_members_were_between_31_-_40_age_categories?": [
+          null
+        ],
+        "3_c_iv_please_specify_how_many_of_the_cooperative_members_were_between_41_-_60_age_categories?": null,
+        "3_c_v_please_specify_how_many_of_the_cooperative_members_were_aged_61_and_above": null,
+        "3_d_i_please_specify_how_many_of_the_cooperative_members_had_ple_level_education_as_their_highest_education_level?": null,
+        "3_d_ii_please_specify_how_many_of_the_cooperative_members_had_uce_level_education_as_their_highest_education_level?": null,
+        "3_d_iii_please_specify_how_many_of_the_cooperative_members_had_uace/_tertiary_level_education_as_their_highest_education_level?": null,
+        "3_d_iv_please_specify_how_many_of_the_cooperative_members_had_undergraduate_level_education_as_their_highest_education_level?": "10",
+        "3_d_v_please_specify_how_many_of_the_cooperative_members_had_postgraduate_level_education_as_their_highest_education_level?": null,
+        "3_e_i_please_specify_how_many_cooperative_members_fell_into_farmer_occupation_categories?": null,
+        "3_e_ii_please_specify_how_many_cooperative_members_fell_into_teacher_occupation_categories?": "30",
+        "3_e_iii_please_specify_how_many_cooperative_members_fell_into_medical_practitioner_occupation_categories?": null,
+        "3_e_iv_please_specify_how_many_cooperative_members_fell_into_legal_practitioner_occupation_categories?": null,
+        "3_e_v_please_specify_how_many_cooperative_members_fell_into_social_development_worker_occupation_categories?": null,
+        "3_e_vi_please_specify_how_many_cooperative_members_fell_into_finance_practitioner_occupation_categories?": null,
+        "3_e_vii_please_specify_how_many_cooperative_members_fell_into_marketing_practitioner_occupation_categories?": null,
+        "3_e_viii_please_specify_how_many_cooperative_members_fell_into_engineer_occupation_categories?": null,
+        "3_e_ix_please_specify_how_many_cooperative_members_fell_into_manual_labor_(construction,_farm_work_etc)_occupation_categories?": null,
+        "3_e_x_please_specify_how_many_cooperative_members_fell_into_other_occupation_categories?": null,
+        "4_a_list_5_key_reasons_for_which_members_exited_the_cooperative_in_the_last_one_year": [
+          "None",
+          null
+        ],
+        "4_b_how_many_members_of_the_cooperative_exited/left_in_the_last_year?": [
+          "8",
+          "9",
+          "7"
+        ],
+        "4_c_state_how_many_members_fall_in_these_categories:": [
+          "8",
+          "7"
+        ],
+        "4_d_what_was_the_percentage_of_active_members_to_the_total_cooperative_membership?": "30",
+        "4_e_did_the_cooperative_keep_records_of_all_members_who_have_been_implicated_and_found_to_have_stolen_property_of_cooperative?": [
+          "No"
+        ],
+        "4_f_if_yes,_how_many_confirmed_cases_were_recorded?": null,
+        "4_g_did_the_cooperative_keep_records_of_all_committee_members_who_have_been_implicated_and_found_to_have_stolen_property_of_cooperative?": [
+          "No"
+        ],
+        "4_h_if_yes,_how_many_confirmed_cases_have_been_recorded?": null,
+        "4_i_did_the_cooperative_keep_records_of_all_employees_who_have_been_implicated_and_found_to_have_stolen_property_of_cooperative?": [
+          "Yes"
+        ],
+        "4_j_if_yes,_how_many_confirmed_cases_were_recorded?": "3",
+        "4_k_did_the_cooperative_register_any_cases_of_bank_account_abuse_by_leaders?": [
+          "Yes"
+        ],
+        "4_l_if_yes,_how_many_confirmed_cases_have_been_recorded?": "4",
+        "5_a_did_the_cooperative_provide_services_to_non-members?": [
+          "No"
+        ],
+        "5_c__how_many_non-members_benefited_from_the_cooperative’s_services_and_products?": null,
+        "6_a_did_you_have_members_who_are_groups?": [
+          "No"
+        ],
+        "6_b_if_yes,_how_many_groups_belong_to_the_cooperative?": null,
+        "6_c_also_state_3_reasons_why_your_cooperative_opted_for_group_members?": [
+          null
+        ],
+        "7_did_your_cooperative_have_a_code_of_conduct_for_members_that_guided_membership_behavior_and_relationship_within_and_outside_the_cooperative?": [
+          "No"
+        ],
+        "1_how_many_fully_paid_up_members_did_the_cooperative_have?": "5"
+      },
+      "category_id": 86
+    },
+    {
+      "formData": {
+        "1_b_if_not,_who_made_you_form_this_cooperative?": [
+          "Government",
+          "Religious Institution "
+        ],
+        "1_f_what_were_the_reasons_for_forming_the_cooperative?": [
+          "Savings & Credit",
+          "Transportation"
+        ],
+        "2_a_did_your_cooperative_have_the_following_committees?": [
+          "Board/ Executive committee",
+          "Vetting Committee",
+          "Board Subcommittees",
+          "Vetting Committee        ",
+          "Board/ Executive committee  "
+        ],
+        "2_c_if_not,_which_of_the_following_committees_do_not_have_terms_of_reference.": [],
+        "2_d_ii_if_not,_what_methods_did_your_cooperative_use_for_recruiting_the_board/_executive_committee_members?": [],
+        "2_d_iv_if_not,_what_methods_did_your_cooperative_use_for_recruiting_the_vetting_committee_members?": [],
+        "2_d_vi_if_not,_what_methods_did_your_cooperative_use_for_recruiting_the_supervisory_committee_members?": [],
+        "2_d_viii_if_not,_what_methods_did_your_cooperative_use_for_recruiting_the_board_subcommittees_members?": [],
+        "2_p_what_form_of_payment_was_made_to_the_committee_members?": [
+          "Salary"
+        ],
+        "2_q_if_your_cooperative_paid_your_committee_members,_how_often?": [
+          "Once a year"
+        ],
+        "2_s_if_yes,_specify_what_kind_of_reward_you_gave_your_committee_members.": [],
+        "2_t_ii_if_you_trained_your_board/_executive_committee_members,_how_often?": [
+          "Once at the AGM"
+        ],
+        "2_t_iv_if_you_trained_your_vetting_committee_members,_how_often?": [
+          "Once at the AGM"
+        ],
+        "2_t_vi_if_you_trained_your_supervisory_committee_members,_how_often?": [
+          "Once at the AGM"
+        ],
+        "2_v_which_of_the_following_subcommittees_of_the_board_did_your_cooperative_put_in_place?": [
+          "Human Resources"
+        ],
+        "3_p_if_you_had_no_managerial_team,_who_ran__the_daily__operations_of_the_cooperative?": [],
+        "5_n_if_yes,_how_often_were_the_members_trained?": [
+          "Quarterly"
+        ],
+        "7_h_if_no,_please_specify_when_the_members_received_the_audited_reports.": [],
+        "7_l_iv_did_the_cooperative_register_all_its_agm_meeting_resolutions_with_the_cooperative_registrar’s_office?": [
+          "Board comiittee"
+        ],
+        "8_c_if_yes,_specify_which_taxes.": [],
+        "9_b_if_yes,_which_of_these_policies_did_the_cooperative_have?": [
+          "Procurement",
+          "Bulking"
+        ],
+        "9_c_if_the_cooperative_didn’t_have_any_of_these_policies,_please_specify_why?": [],
+        "10_b_which_of_these_benefits_did_your_cooperative_enjoy_by_affiliating_to_any_of_the_selected_networks?": [
+          "Affordable credit",
+          "Training",
+          "A sense of community"
+        ],
+        "12_b_if_yes,_which_of_these_platforms_did_your_cooperative_use_to_market_its_products_and_services?": [
+          "Whatsapp",
+          "Twitter"
+        ],
+        "1_a_was_the__decision_to_form_our_cooperative__voluntarily_made_by_members?": [
+          "No"
+        ],
+        "1_c_i_were_all__members_involved_in_similar_business_activities.": [
+          "Yes"
+        ],
+        "1_d_did_members_come_from_the_same_defined_location.": [
+          "Yes"
+        ],
+        "1_g_did_the_cooperative_provide_all_the_relevant_information_regarding_the_cooperative_before_new_members_joined?": [
+          "No"
+        ],
+        "2_b_did_each_of_these_committees_have_terms_of_reference?": [
+          null
+        ],
+        "2_d_i_did_you_advertise_the_positions_of_the_elected_board/_executive_committee_members_that_fell_vacant?": [
+          null
+        ],
+        "2_d_iii_did_you_advertise_the_positions_of_the_elected_vetting_committee_members_that_fell_vacant?": [
+          null
+        ],
+        "2__d_v_did_you_advertise_the_positions_of_the_elected_supervisory_committee_members_that_fell_vacant?": [
+          null
+        ],
+        "2_d_vii_did_you_advertise_the_positions_of_the_elected_board_subcommittees_members_that_fell_vacant?": [
+          null
+        ],
+        "2_e_did_the_cooperative_undertake_a_fit_and_proper_test_in_areas_like_integrity,_credit_worthiness,_emotional_intelligence_and_intellectual_quotient_on_the_aspiring_committee_candidates_before_election?": [
+          null
+        ],
+        "2_f_did_your_cooperative_vote_for_only_fully_paid-up_members_to_serve_as_members_in_any_of_the_committees?": [
+          null
+        ],
+        "2_g_did_your_cooperative_have_a_diversity_policy_(women,_youth,_people_with_disability_(pwd)_inclusion)?": [
+          null
+        ],
+        "2_i_did_your_cooperative_hold_elections_for_all_the_statutory_committees_every_four_years_as_prescribed_in_the_cooperative_societies_act_cap_112?": [
+          null
+        ],
+        "2_j_i_do_you_know_when_your_board/executive_committee_held_it's_last_election?": [
+          null
+        ],
+        "2_j_iii_do_you_know_when_your_vetting_committee_held_it's_last_election?": [
+          null
+        ],
+        "2_j_v_do_you_know_when_your_supervisory_committee_held_it's_last_election?": [
+          null
+        ],
+        "2_k_i_did_your_cooperative_issue_out_contracts_to_committee_members?": [
+          null
+        ],
+        "2_l_i_how_often_did_your_board/_executive_committee_members_hold_meetings?": [
+          null
+        ],
+        "2_l_ii_how_often_did_your_supervisory_committee_members_hold_meetings?": [
+          null
+        ],
+        "2_l_iii_how_often_did_your_vetting_committee_members_hold_meetings?": [
+          null
+        ],
+        "2_n_i_did_the_committee_observe_quorum_when_conducting_their_board/_executive_committee_meetings?": [
+          null
+        ],
+        "2_n_ii_did_the_committee_observe_quorum_when_conducting_their_supervisory_committee_meetings?": [
+          null
+        ],
+        "2_n_iii_did_the_committee_observe_quorum_when_conducting_their_vetting_committee_meetings?": [
+          null
+        ],
+        "2_n_iv_did_the_committee_observe_quorum_when_conducting_their_other_committee_meetings?": [
+          null
+        ],
+        "2_o_did_your_cooperative_pay_your_committee_members?": [
+          null
+        ],
+        "2_r_did_your_cooperative_reward_committee_members_for_excellence?": [
+          null
+        ],
+        "2_t_i_did_your_cooperative_train_all_your_board/_executive_committee_members_in_the_last_year?": [
+          null
+        ],
+        "2_t_iii_did_your_cooperative_train_all_your_vetting_committee_members_in_the_last_year?": [
+          null
+        ],
+        "2_t_v_did_your_cooperative_train_all_your_supervisory_committee_members_in_the_last_year?": [
+          null
+        ],
+        "2_u_did_your_cooperative_have_a_code_of_conduct_for_its_committee_members_that_guided_committee_behavior_and_relationship_within_and_outside_the_cooperative?": [
+          null
+        ],
+        "3_a_did_your_cooperative_have_employees?": [
+          null
+        ],
+        "3_b_if_yes,_were_all_vacant_employee_positions_advertised?": [
+          null
+        ],
+        "3_c_if_yes,_how_were_they_recruited?": [
+          null
+        ],
+        "3_e_did_the_cooperative_undertake_a_fit_and_proper_test_in_areas_like_integrity,_credit_worthiness,_emotional_intelligence_and_intellectual_quotient_on_the_employees_before_recruitment_in_the_last_year?": [
+          null
+        ],
+        "3_f_did_your_cooperative_have_a_human_resource_policy?": [
+          null
+        ],
+        "3_g_did_your_cooperative_adhere_to_the_human_resource_policy?": [
+          null
+        ],
+        "3_h_did_your_cooperative_have_a_safety_and_health_policy_for_members_and_employees_of_the_cooperative?": [
+          null
+        ],
+        "3_i_if_yes,_did_your_cooperative_adhere_to_a_safety_and_health_policy?": [
+          null
+        ],
+        "3_j_did_your_cooperative_reward/acknowledge_excellent_employees?": [
+          null
+        ],
+        "3_k_did_your_cooperative_provide_at_least_a_training_to_your_employees_in_the_last_year?": [
+          null
+        ],
+        "3_l_if_you_trained_employees,_how_often?": [
+          null
+        ],
+        "3_m_did_your_cooperative_issue_contracts_to_employees?": [
+          null
+        ],
+        "3_n_did_your_cooperative_do_employee_performance_appraisals?": [
+          null
+        ],
+        "3_o_if_so,_how_often?": [
+          null
+        ],
+        "4_a_does_your_cooperative_have_a_strategic_plan_that_is_aligned_to_the_members_joint_vision_&_mission?": [
+          null
+        ],
+        "4_b_if_yes,_did_the_members_participate_in_its_development?": [
+          null
+        ],
+        "4_d_if_no,_who_developed_it_for_you?": [
+          null
+        ],
+        "5_a_when_was_the_last_time_your_cooperative_held_an_agm?": [
+          null
+        ],
+        "5_b_if_last_year,_have_you_had_agms_every_year_from_the_beginning?": [
+          null
+        ],
+        "5_d_did_your_cooperative_observe_quorum_at_the_last_agm?": [
+          null
+        ],
+        "5_g_when_voting_during_the_agm,_does_the_cooperative_practice_one_member_one_vote?": [
+          null
+        ],
+        "5_h_did_your_cooperative_share_minutes_of_the_agm_with_its_members?": [
+          null
+        ],
+        "5_j_did_you_have_a_representative_from_the_ministry_of_trade,_industry_and_cooperatives_(mtic)_during_the_agm_that_your_cooperative_last_held?": [
+          null
+        ],
+        "5_k_did_mtic_provide_a_feedback_report_for_the_last_agm_they_have_attended?": [
+          null
+        ],
+        "5_l_i_did_your_political,_religious_and_cultural_leaders_influence_the_decisions_of__the_cooperative_during_agms.": [
+          null
+        ],
+        "5_m_did_your_cooperative_train_all_its_members_during_the_last_year?": [
+          null
+        ],
+        "5_q_did_your_cooperative_have_a_budget_for_training_these_members?": [
+          null
+        ],
+        "6_a_did_your_cooperative_prepare_an_annual_budget_for_members_to_approve_at_the_agm?": [
+          null
+        ],
+        "6_b_i_did_the_cooperative_share_the_draft_budget_with_your_members_two_weeks_before_the_agm?": [
+          null
+        ],
+        "6_c_did_the_cooperative_members_understand_what_the_budgeting_process_was_all_about?": [
+          null
+        ],
+        "6_d_did_the_cooperative_members_participate_in_approving_the_budget?": [
+          null
+        ],
+        "6_e_did_the_cooperative_members_participate_in_approving_the_maximum_liability?": [
+          null
+        ],
+        "7_a_did_your_cooperative_prepare_financial_reports_(balance_sheet,_income_statement_etc.)?": [
+          null
+        ],
+        "7_b_did_your_cooperative_perform_honest_certified_financial_audits?": [
+          null
+        ],
+        "7_c_did_your_cooperative_perform_honest_certified_social_audits?": [
+          null
+        ],
+        "7_e_if_no,_who_performed_the_cooperative’s_audit?": [
+          null
+        ],
+        "7_f_i_when_was_the_last_audit_done?": [
+          null
+        ],
+        "7_g_did_your_cooperative_send_audited_reports_to_your_members_two_weeks_before_the_last_agm?": [
+          null
+        ],
+        "7_i_did_your_cooperative_have_an_internal_auditor?": [
+          null
+        ],
+        "7_j_did_your_cooperative_file_annual_returns_to_the_registrar_office?": [
+          null
+        ],
+        "7_k_if_yes,_did_you_get_any_feedback_on_your_returns_from_the_registrar’s_office?": [
+          null
+        ],
+        "7_l_did_the_cooperative_register_all_its_resolutions_with_the_cooperative_registrar's_office?": [
+          null
+        ],
+        "7_l_i_did_the_cooperative_register_all_its_elected_board_committee_meeting_resolutions_with_the_cooperative_registrar’s_office?": [
+          null
+        ],
+        "7_l_ii_did_the_cooperative_register_all_its_elected_supervisory_committee_meeting_resolutions_with_the_cooperative_registrar’s_office?": [
+          null
+        ],
+        "7_l_iii_did_the_cooperative_register_all_its_elected_vetting_committee_meeting_resolutions_with_the_cooperative_registrar’s_office?": [
+          null
+        ],
+        "7_m_i_did_the_board/_executive_committee_share_quarterly_performance_reports_with_the_members?": [
+          null
+        ],
+        "7_m_ii_did_the_supervisory_committee_share_quarterly_performance_reports_with_the_members?": [
+          null
+        ],
+        "7_m_iii_did_the_vetting_committee_share_quarterly_performance_reports_with_the_members?": [
+          null
+        ],
+        "7_m_iv_did_the_subcommittee_share_quarterly_performance_reports_with_the_board_committee_members?": [
+          null
+        ],
+        "7_n_did_the_cooperative_register_all_its_agm_resolutions_with_the_cooperative_registrar’s_office?": [
+          null
+        ],
+        "8_a_does_your_cooperative_have_a_tax_identification_number?": [
+          null
+        ],
+        "8_b_did_the_cooperative_file_returns_for_all_the_taxes_it_is_registered_for_with_uganda_revenue_authority_within_the_statutory_periods_defined_under_the_tax_laws?": [
+          null
+        ],
+        "8_e_did_the_cooperative_file_for_taxes_with_the_local_government_where_it_operates_within_the_defined_periods_as_provided_for_by_the_tax_laws?": [
+          null
+        ],
+        "8_g_did_your_cooperative_pay_any_fees_and_levies_to_the_government?": [
+          null
+        ],
+        "8_j_did_your_cooperative_have_any_outstanding_tax_debt_with_uganda_revenue_authority?": [
+          null
+        ],
+        "8_l_did_your_cooperative_have_any_outstanding_tax_debt_with_local_government?": [
+          null
+        ],
+        "9_a_did_your_cooperative_have_any_internal_control_policies?": [
+          null
+        ],
+        "10_a_i_was_your_cooperative_affiliated_to_any_regional_cooperative_body?": [
+          null
+        ],
+        "10_a_iii_was_your_cooperative_affiliated_to_any_apex_cooperative?": [
+          null
+        ],
+        "10_a_v_was_your_cooperative_affiliated_to_any_secondary_cooperative?": [
+          null
+        ],
+        "10_a_vii_was_your_cooperative_affiliated_to_any_tertiary_cooperative?": [
+          null
+        ],
+        "10_a_ix_was_your_cooperative_affiliated_to_any_non-cooperative_institution/_body?": [
+          null
+        ],
+        "10_c_are_there_any_challenges_that_affiliation_has_brought_to_your_cooperative?": [
+          null
+        ],
+        "10__e_did_your_cooperative_have_any_business_collaborative_agreements_with_any_other_affiliations?": [
+          null
+        ],
+        "11_a_when_members_left_your_cooperative,_were_they_assisted_to_smoothly_transition_by_paying_them_off_for_anything_the_cooperative_owes_them?": [
+          null
+        ],
+        "12_a_did_your_cooperative_have_a_marketing_plan_for_its_products_and_services?": [
+          null
+        ],
+        "13_a_did_your_cooperative_organize_learning/_exchange_visits_for_its_members?": [
+          null
+        ],
+        "13_b_if_yes,_how_often_does_this_happen?": [
+          null
+        ],
+        "13_c_did_your_cooperative_budget_for_the_learning_visits_as_part_of_the_capacity_building_programmes_for_the_cooperative?": [
+          null
+        ],
+        "14_a_did_your_cooperative_engage_its_members_in_social_activities_like_sports?": [
+          null
+        ],
+        "14_b_did_your_cooperative_engage_its_members_in_social_activities_like_performance_arts?": [
+          null
+        ],
+        "15_did_your_cooperative_have_programmes_for_supporting_members_in_distress_e.g.,_those_that_have_been_affected_by_disasters_like_floods,_displacement,_death?": [
+          null
+        ],
+        "16_a_did_your_cooperative_hold_special_general_meetings_in_the_last_year?": [
+          null
+        ],
+        "1_c_ii_if_no,_specify_5_key_businesses_they_are_involved_in": "",
+        "2_h_if_yes,_how_many_cooperative_members_belong_to_each_of_these_categories?": "",
+        "2_j_ii_if_yes,_please_specify_the_date.": "",
+        "2_j_iv_if_yes,_please_specify_the_date.": "",
+        "2_j_vi_if_yes,_please_specify_the_date.": "",
+        "2_k_ii_if_no,_please_give_reasons_why.": "",
+        "2_k_iii_please_state_the_alternative_binding_documents_given_if_any.": "",
+        "2_m_what_is_the_quorum_for_the_meetings_of_each_of_these_cooperative_committees?": "9",
+        "3_d_how_many_employees_did_your_cooperative_have_in_the_last_financial_year?": "2",
+        "4_c_if_yes,_how_many_participated_in_the_development_of_your_strategy?": "3",
+        "4_e_for_how_many_years_will_your_cooperative_implement_its_current_strategic_plan?": "4",
+        "5_c_what_is_the_quorum_for_your_cooperative’s_agm?": "2",
+        "5_e_how_many_members_attended_your_last_agm?": "4",
+        "5_f_how_many_of_the_members_that_attended_were_fully_paid_-up?": "5",
+        "5_i_if_yes,_after_how_many_weeks_from_the_date_of_the_agm?": "4",
+        "5_l_ii_if_others,_specify": "",
+        "5_o_if_yes,_how_many_members_received_at_least_one_training_in_this_financial_year?": "5",
+        "6_b_ii_if_you_didn't_share_the_draft_budget_with_your_members_two_weeks_before_the_agm,_specify_when_you_did.": "",
+        "7_d_if_yes,_the_cooperative_performed_both_social_and_financial_audit,_name_the_audit_firm_that_conducted_the_cooperative’s_latest_certified_annual_financial_and_social_audits?": "2",
+        "7_f_ii_if_others,_please_specify_when.": "",
+        "8_d_if_no,_please_state_the_reasons_why.": "",
+        "8_f_if_yes,_list_the_top_3_tax_types_your_cooperative_paid_to_the_local_government.": "",
+        "8_h_if_yes,_list_the_top_5_fees_and_levies_that_your_cooperative_paid_to_the_government.": "",
+        "8_i_)_if_no,_please_state_3_reasons_why.": "",
+        "8_k_if_yes,_how_much_had_accrued_for_any_each_of_the_following.": "",
+        "10_a_ii_if_yes,_specify.": "",
+        "10_a_iv_if_yes,_specify": "Sample 1",
+        "10_a_vi_if_yes,_specify.": "",
+        "10_a_viii_if_yes,_specify.": "",
+        "10_a_x_if_yes,_specify.": "",
+        "10_d_if_yes,_mention_at_least_3_of_these_challenges.": "",
+        "10_f_if_yes,_suggest_three_benefits_you_enjoyed_from_this_collaboration?": "Sample 1",
+        "10_g_if_no,_please_state_the_reasons.": "",
+        "10_h_list_3_key_challenges_your_cooperative_faced_by_having_collaborative_business_agreements_with_these_affiliations.": "",
+        "11_b_if_not,_list_3_factors_that_have_limited_the_smooth_exit_of_members_from_your_cooperatives.": "",
+        "12_c_if_yes,_please_state_the_reasons_for_using_these_online_channels.": "",
+        "12_d_if_no,_please_state_the_reasons_for_not_using_these_online_channels.": "",
+        "16_b_if_yes,_state_up_to_3_reasons_why_your_cooperative_held_special_general_meetings_in_the_last_year.": ""
+      },
+      "category_id": 101
+    },
+    {
+      "formData": {
+        "1_a_did_the_cooperative_have_an_approved_business_plan_that_is_aligned_to_the_joint_aspirations_of_the_members?": [
+          "Yes"
+        ],
+        "1_b_)_if_no,_please_state_the_reason_why_your_cooperative_has_no_approved_business_plan?": [
+          null
+        ],
+        "1_c_did_the_cooperative_involve_its_members_in_business_planning?": [
+          "Yes"
+        ],
+        "1_e_if_yes,_what_is_the_level_of_the_member’s_participation_in_designing_the_business_plan?": [
+          "Weak (10 - 40%)"
+        ],
+        "1_f_for_how_many_years_has_your_business_plan_been_designed_to_last?": "3",
+        "2_how_did_your_cooperative_keep_records?": [
+          "Soft Copy"
+        ],
+        "3_a_did_your_cooperative_use_any_management_information_systems?": [
+          "Yes"
+        ],
+        "3_c_if_no,_please_state_the_reasons_why": [
+          null
+        ],
+        "4_a_did_the_cooperative_keep_reserves?": [
+          "Yes"
+        ],
+        "4_b_if_yes,_what_reserves_did_the_cooperative_keep?": [
+          "Reserve Fund (10% of net surplus)"
+        ],
+        "4_c__if_no,_please_provide_reasons_why": [
+          null
+        ],
+        "4_d_did_your_cooperative_separate_reserves_from_its_operating_income?": [
+          "Yes"
+        ],
+        "4_e_if_no,_please_state_why": [
+          null
+        ],
+        "5_a_in_what_ways_did_your_cooperative_keep_its_money?": [
+          "Underground",
+          "With a committee member"
+        ],
+        "5_b_did_your_cooperative_have_a_bank_account?": [
+          "Yes"
+        ],
+        "5_c_if_yes,_which_type_of_account_did_you_have?": [
+          "Investment"
+        ],
+        "5_d_if_no,_please_state_the_reasons": [
+          null
+        ],
+        "5_e_what_is_the_minimum_number_of_signatories_to_the_cooperative_bank_accounts?": "2",
+        "6_a_did_the_cooperative_have_an_insurance_policy?": [
+          "Yes"
+        ],
+        "6_b_if_yes,_what_type_of_insurance_policy_did_the_cooperative_have?": [
+          "Professional indemnity",
+          "Weather index insurance"
+        ],
+        "6_c_if_not,_please_state_the_reasons_why_your_cooperative_has_none_of_the_insurance_policies?": [
+          null
+        ],
+        "7_a_did_the_cooperative_have_an_environment_management_plan?": [
+          "Yes"
+        ],
+        "7_b_did_the_cooperative_have_a_natural_resources_management_plan?": [
+          "Yes"
+        ]
+      },
+      "category_id": 89
+    },
+    {
+      "formData": {
+        "1_a_did_your_co-operative_own_any_physical_assets?_": {
+          "eg,_buildings,_machinery,_computers,_trees,_transport_equipment,_stores": [
+            "Yes"
+          ]
+        },
+        "1_b_if_yes,_what_were_they?": [
+          "Land",
+          "Computers"
+        ],
+        "1_c_if_your_cooperative_owns_machinery_as_an_asset,_list_the_3_that_are_most_important?": [
+          null
+        ],
+        "1_d_does_your_cooperative_own_a_store?": [
+          "Yes"
+        ],
+        "1_e_if_yes,_what_was_the_store’s_size_in_sq_meters?": "3",
+        "1_f_if_no,_how_did_your_cooperative_store_its_produce?": [
+          null
+        ],
+        "2_a_if_you_own_land,_what_was_the_size_of_this_land_in_acres?": "2",
+        "2_b_if_your_cooperative_has_land,_does_your_cooperative_have_the_supporting_ownership_documents?": [
+          "Yes"
+        ],
+        "2_c_if_yes,_check_all_that_apply": [
+          "Land title"
+        ],
+        "2_d_if_your_cooperative_did_not_have_supporting_documents,_why_is_this_so,_give_3_reasons": [
+          null
+        ],
+        "3_a_what_were_the_sources_of_your_cooperative’s_finances?": [
+          "Shares"
+        ],
+        "3_b_please_specify_the_amount_(in_ugx)_for_each_of_the_funding_categories_mentioned_above_(based_on_the_previous_year’s_accounts)": "100000",
+        "4__from_which_of_these_partners_did_your_cooperative_obtain_grants?": [
+          "Religious Institution"
+        ],
+        "5_a_did_your_cooperative_obtain_a_loan?": [
+          "Yes"
+        ],
+        "5_b_if_your_cooperative_had_a_loan,_what_was_its_source?_(check_all_that_apply)": [
+          "Commercial Bank",
+          "Cooperative Affiliation"
+        ],
+        "5_c_what_type_of_loans_comprised_your_cooperative's_loan_portfolio?_(check_all_that_apply)": [
+          "Agricultural loan"
+        ],
+        "5_d_did_the_cooperative’s_customers_make_advance_payments_for_the_cooperative’s_products_or_services?": [
+          "Yes"
+        ],
+        "6_a_what_interest_was_your_cooperative_being_charged_on_loans_per_annum?": [
+          "1 % - 5%"
+        ],
+        "6_b_what_mode_of_loan_repayment_did_your_cooperative_use?": [
+          "Cash"
+        ],
+        "7_a_did_your_cooperative_give_loans_to_its_members?": [
+          "Yes"
+        ],
+        "7_b_if_yes,_what_mode_of_loan_repayment_did_the_members_use?": [
+          "Cash"
+        ],
+        "7_c_what_was_the_frequency_of_loan_repayment_for_members?": [
+          "Daily",
+          "Quarterly"
+        ],
+        "7_d_what_interest_was_your_cooperative_charging_members_on_loans_per_annum?": [
+          "1 % - 5%"
+        ],
+        "7_e_did_your_cooperative_give_out_loans_to_non-members?": [
+          "Yes"
+        ],
+        "7_f_if_yes,_what_are_the_reasons_for_lending_to_non-members?": [
+          "We have surplus money",
+          "To increase our revenue"
+        ],
+        "7_g_what_interest_was_your_cooperative_charging_non-members_on_loans_per_annum?": [
+          "1% - 5%"
+        ],
+        "8_a_if_you_are_an_agricultural_cooperative,_which_of_the_following_affected_your_business?": [
+          "Counterfeit inputs"
+        ],
+        "8_b_the_following_were_the_positive_impacts_of_proper_application_of_pesticides_&_herbicides_on_our_cooperative_(select_all_that_apply)": [
+          "Better yields"
+        ],
+        "8_c_the_following_were_the_negative_impacts_of_poor_application_of_pesticides_&_herbicides_on_our_cooperative_(select_all_that_apply)": [
+          "Low Yield"
+        ],
+        "8_d_the_following_have_been_the_remedies_to_some_of_the_challenges_your_cooperative_was_confronted_with": [
+          "Training of Farmers"
+        ],
+        "9_a_did_your_cooperative_resolve_on_dividend_payments_in_the_last_annual_general_meeting?": [
+          "Yes"
+        ],
+        "9_b_if_yes,_how_much_was_the_total_dividend_amount_paid_out_to_members_in_the_last_financial_year?": [
+          "20000"
+        ],
+        "9_c_what_was_the_proportion_of_the_dividend_payment_to_the_members’_share_portfolio?": "2",
+        "9_d_did_your_cooperative_pay_out_patronage_bonus_when_the_cooperative_made_a_premium_(additional_amount_the_cooperative_makes_over_and_above_the_original_market_price)?": [
+          "Yes"
+        ],
+        "9_e_if_yes,_what_was_considered_when_paying_out_the_patronage_bonus?": [
+          "Sample 1",
+          null
+        ],
+        "9_f_and,_how_many_times_was_the_patronage_bonus_paid?": "3",
+        "10_a_did_your_cooperative_have_special_discounts_for_the_members?": [
+          "Yes"
+        ],
+        "10_b_if_yes,_on_what_services_or_products_did_you_discount_for_your_members?": [
+          "Sample 1",
+          null
+        ],
+        "11_did_your_cooperative_give_its_members_first_priority_to_be_suppliers_for_cooperative’s_procurement_needs?": [
+          "Yes"
+        ],
+        "12_what_was_your_cooperative’s_overall_portfolio_at_risk?": "43",
+        "13_what_was_the_net_surplus_of_the_cooperative?": "2"
+      },
+      "category_id": 90
+    },
+    {
+      "formData": {
+        "1_a_was_your_cooperative_involved_in_any_national_policy_development?": [
+          "Yes"
+        ],
+        "1_b_if_yes,_please_mention_at_least_3_of_such_initiatives_in_1_above?": [
+          "Sample 1",
+          null
+        ],
+        "1_c_if_no,_please_state_the_reasons_why": [
+          null
+        ],
+        "2_a_i_did_your_cooperative_adhere_to_the_cooperative_societies_act_cap112_1991?": [
+          "Yes"
+        ],
+        "2_a_ii_if_yes,_how_many_members_had_a_copy_of_the_cooperative_societies_act_cap112_1991?": "3",
+        "2_a_iii_did_your_cooperative_adhere_to_the_cooperative_societies_regulations_1992?": [
+          "Yes"
+        ],
+        "2_a_iv_if_yes,_how_many_members_had_a_copy_of_the_cooperative_societies_regulations_1992?": "3",
+        "2_a_v_did_your_cooperative_adhere_to_the_tier_4_microfinance_&_money_lenders_act_2016": [
+          "Yes"
+        ],
+        "2_a_vi_if_yes,_how_many_members_had_a_copy_of_the_tier_4_microfinance_&_money_lenders_act_2016?": "4",
+        "2_a_vii_did_your_cooperative_adhere_to_the_microfinance_deposit_taking_act?": [
+          "Yes"
+        ],
+        "2_b_are_there_any_areas_of_amendment_you_would_suggest_in_the_cooperative_act_1991?": [
+          "Yes"
+        ],
+        "2_c_if_yes,_please_share_your_recommendations": [
+          null
+        ],
+        "2_d_did_your_cooperative_participate_in_the_formulation_of_any_district_bylaws_or_national_laws_concerning_its_business?": [
+          "Yes"
+        ],
+        "2_e_did_your_cooperative_participate_in_the_formulation_of_any_district_bylaws_or_national_laws_concerning_its_community_wellbeing?": [
+          "Yes"
+        ]
+      },
+      "category_id": 91
+    },
+    {
+      "formData": {
+        "1_a_did_your_cooperative_face_any_major_conflict?": [
+          "Yes"
+        ],
+        "1_b_if_yes,_how_did_you_resolve_it?": [
+          "Mediation: a non-binding process generally conducted with a single mediator who does not judge the case but facilitates discussion and eventual resolution of the dispute"
+        ],
+        "1_c_did_your_cooperative_have_any_unresolved_conflict/_disagreement?": [
+          "Yes"
+        ],
+        "1_d_if_yes,_how_many_unresolved_cases_did_your_cooperative_have?": "3",
+        "2_a_did_your_cooperative_loose_any_property(ies)_in_the_past?": [
+          "Yes"
+        ],
+        "2_b_if_yes,_what_caused_the_loss?": [
+          "War"
+        ],
+        "2_c_if_you_had_war_losses,_list_the_wars_for_which_you_are_seeking_compensation?": [
+          "Sample 1",
+          null
+        ],
+        "2_d_have_your_war_claims_been_verified_yet_by_the_government?": [
+          "Yes"
+        ],
+        "2_e_if_yes,_what_was_the_cooperatives_verified_compensation_amount?": [
+          "100000"
+        ],
+        "2_f_did_your_cooperative_receive_compensation_yet?": [
+          "Yes"
+        ],
+        "2_g_what_were_the_common_internal_risks_your_cooperative_faced?": [
+          "Fraud",
+          "Lack of machinery",
+          "Limited Finances"
+        ],
+        "2_h_what_were_the_common_external_risks_your_cooperative_faced?": [
+          "Land grabbing",
+          "Flooding"
+        ],
+        "3_what_challenges_did_your_cooperative_face_in_its_operations?": [
+          "Expensive Middle Men",
+          "Poor Transport Networks"
+        ],
+        "4_a_was_your_cooperative_a_share-holder_of_the_defunct__cooperative_bank?_(_if_the_answer_is_a_no,_please_jump_to_the_next_section_if_the_questionnaire)": [
+          "Yes"
+        ],
+        "4_b_did_your_cooperative_have_an_account_in_the_defunct__cooperative_bank?": [
+          "Yes"
+        ],
+        "5_a_did_you_make_any_losses_when_the_cooperative_bank_was_closed_in_1999?": [
+          "Yes"
+        ],
+        "5_b_if_yes,_in_what_form?": [
+          "We lost money in deposit accounts"
+        ],
+        "5_c_quantify_your_total_loss_in_5_b_above": [
+          "2000"
+        ],
+        "5_d_would_your_cooperative_consider_buying_shares_in_a_new_cooperative_bank?": [
+          "Yes"
+        ],
+        "5_e_if_no,_please_give_reasons_why_your_cooperation_would_not_buy_shares_in_a_new_cooperative_bank?": [
+          null
+        ],
+        "6_a_did_your_cooperative_have_shares_in_any_defunct_cooperative_eg,_cooperative_insurance_company_of_uganda,_uganda_cooperative_central_union_etc?": [
+          "Yes"
+        ],
+        "6_b_if_yes,_please_specify_the_names_of_the_suggested_defunct_cooperative/s_above": [
+          "Sample 1",
+          null
+        ],
+        "7_did_your_cooperative_pay_out_patronage_bonus_when_the_cooperative_made_a_premium?": [
+          "Yes"
+        ],
+        "8_did_your_cooperative_have_a_members_services_dedicated_employee_to_ensure_membership_service_satisfaction?": [
+          "Yes"
+        ],
+        "9_did_your_cooperative_belong_to_any_disaster_risk_management_committee_at_any_local_government_level?": [
+          "Yes"
+        ],
+        "10_did_the_cooperative_have_a_strategy_and_plan_to_contribute_to_the_development_of_community_infrastructure_using_part_of_its_surplus?": [
+          "Yes"
+        ],
+        "11_did_your_cooperative_have_a_plan_and_budget_for_corporate_social_responsibility": [
+          "Yes"
+        ]
+      },
+      "category_id": 92
+    },
+    {
+      "formData": {
+        "1_a_i_did_your_cooperative’s_board_committee_have_skills_diversity?": [
+          "Yes"
+        ],
+        "1_a_ii_if_yes_please_specify_at_least_5_different_skills_your_board_committee_members_possessed": [
+          "Sample 1",
+          null
+        ],
+        "1_a_iii_did_your_cooperative’s_supervisory_committee_have_skills_diversity?": [
+          "Yes"
+        ],
+        "1_a_iv_if_yes_please_specify_at_least_2_different_skills_your_supervisory_committee_members_possessed": [
+          "Sample 1",
+          null
+        ],
+        "1_a_v_did_your_cooperative’s_vetting_committee_have_skills_diversity?": [
+          "Yes"
+        ],
+        "1_a_vi_if_yes_please_specify_at_least_2_different_skills_your_vetting_committee_members_possessed": [
+          "Sample 1",
+          null
+        ],
+        "2_a_did_your_cooperative’s_employees_have_skills_diversity?": [
+          "Yes"
+        ],
+        "2_b_if_yes_please_specify_at_least_5_different_skills_your_employees_possessed": [
+          "Sample 1",
+          null
+        ],
+        "2_c_did_your_cooperative_hire_employees_with_an_added_advantage_of_specialist_cooperative_training?": [
+          "Yes"
+        ],
+        "2_d_how_many_people_did_the_cooperative_provide_direct_employment_to?": "3",
+        "2_e_did_your_cooperative_provide_indirect_employment_to_the_community?": [
+          "Yes"
+        ],
+        "2_f_if_yes,_how_many_people_did_the_cooperative_provide_indirect_employment_to?": "3",
+        "3_a_did_your_cooperative_undertake_committee_performance_appraisals_based_on_institutional_goals?": [
+          "Yes"
+        ],
+        "3_b_if_yes,_how_regularly?": [
+          "Monthly"
+        ],
+        "3_c_did_the_cooperative_reward_excellent_committee_performance_in_the_last_financial_year?": [
+          "Yes"
+        ],
+        "4_a_did_your_cooperative_evaluate_its_performance_based_on_its_strategic_objectives_&_targets?": [
+          "Yes"
+        ],
+        "4_b_)_if_yes,_list_5_parameters_your_cooperative_looks_at?": [
+          "Implementation of audit recommendations"
+        ],
+        "5_did_the_cooperative_design_or_review_its_products_and_services_based_on_the_changing_demands_of_the_members?": [
+          "Yes"
+        ],
+        "6_a_did_the_various_committees_have_joint_meetings_in_which_they_discuss_the_cooperative?": [
+          "Yes"
+        ],
+        "6_b_if_yes,_how_regularly?": [
+          "Monthly"
+        ],
+        "7_a_some_cooperatives_have_grown_extremely_large_in_membership_numbers_and_most_often_they_are_represented_through_a_delegate’s_system_did_your_cooperative_use_the_delegates_system?": [
+          "Yes"
+        ],
+        "7_b_if_yes,_list_3_benefits_the_delegates_system_brings_to_your_cooperative": [
+          "Sample 1",
+          null
+        ],
+        "7_c_list_at_least_3_challenges_of_the_delegates_system_may_be_bringing_to_your_cooperative": [
+          "Sample 1",
+          null
+        ],
+        "8_a_did_your_cooperative_have_a_weather_monitoring_system?": [
+          "Yes"
+        ],
+        "8_b_did_your_cooperative_have_disaster_risk_management_plan?": [
+          "Yes"
+        ],
+        "8_c)_did_your_cooperative_belong_to_the_any_disaster_risk_management_committee_at_any_local_government_level?": [
+          "Yes"
+        ],
+        "9_a_did_your_cooperative_have_a_budget_for_community_development_programs_eg,_contributing_to_renovating_schools_whose_members_children_study_in?": [
+          "Yes"
+        ],
+        "9_b_if_yes,_how_much_did_you_spend_in_community_development_programmes_in_the_last_financial_year": [
+          "100000"
+        ],
+        "9_c_what_is_the_percentage_of_community_development_expenditure_to_the_annual_net_surplus_of_the_cooperative?": "33",
+        "10_did_the_cooperative_have_a_budget_for_supporting_and_celebrating_with_friends_when_they_are_graduating,_marrying_or_having_thanks_giving_like_christmas?": [
+          "Yes"
+        ]
+      },
+      "category_id": 93
+    },
+    {
+      "formData": {
+        "1_a_did_your_cooperative_have_a_budget_for_research_and_development?": [
+          "Yes"
+        ],
+        "1_b_what_percentage_was_the_research_and_development_budget_to_the_total_annual_budget?": "32",
+        "2_a_did_your_cooperative_encourage_open_sharing_of_ideas_by_members?": [
+          "Yes"
+        ],
+        "2_b_if_yes,_mention_at_least_3_forums/_ways_members_made_their_contribution_beyond_the_agm?": [
+          "Sample 1",
+          null
+        ],
+        "3_how_many_innovative_ideas_did_your_cooperative_introduce_to_increase_its_stability_and_resilience?": [
+          "5"
+        ],
+        "4_a_did_your_cooperative_acknowledge_or_reward_innovative_contributions_from_members?": [
+          "Yes"
+        ],
+        "4_b_if_yes,_list_at_least_3_ways_you_have_rewarded_such_innovation_thus_far": [
+          "Sample 1",
+          null
+        ],
+        "5_a_are_there_any_challenges_your_cooperative_has_faced_as_a_result_of_an_innovation_that_has_slowed_down_your_business?": [
+          "Yes"
+        ],
+        "5_b_if_yes,_list_some_of_the_challenge’s_innovation_has_brought?": [
+          "High cost of services",
+          "Facilitated theft"
+        ],
+        "6_does_the_cooperative_have_a_plan_and_budget_for_scholarships_for_selected_children_of_members_based_on_agreed_terms?": [
+          "Yes"
+        ]
+      },
+      "category_id": 94
+    }
+  ],
+  "name": "Mawanda Traders Ltd",
+  "prob_reg_date": "2022-10-05",
+  "perm_reg_date": null,
+  "perm_reg_num": null,
+  "pro_reg_num": "389283928",
+  "is_complete": 1,
+  "physical_office_res": "Yes",
+  "ownership_status_res": "We rent",
+  "address": "8JR5+QMV, Katalima Cres, Kampala, Uganda",
+  "district": "KAMPALA",
+  "sub_county": "NAKAWA DIVISION",
+  "parish": "NAGURU I",
+  "village": "NAGURU I",
+  "created_at": "2023-01-17T08:43:12.000000Z",
+  "updated_at": "2023-01-30T08:11:27.000000Z",
+  "date_captured": "2023-01-30 08:11:27",
+  "update_status": 0
+}
