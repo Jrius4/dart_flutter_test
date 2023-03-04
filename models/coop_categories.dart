@@ -4,8 +4,8 @@
 
 import 'dart:convert';
 
-class Cooperatives {
-  Cooperatives({
+class IndividualMember {
+  IndividualMember({
     this.id,
     this.cooperativeId,
     this.groupId,
@@ -65,7 +65,7 @@ class Cooperatives {
   List<Field>? fields;
   List<FormDatumElement>? formData;
 
-  Cooperatives copyWith({
+  IndividualMember copyWith({
     int? id,
     int? cooperativeId,
     int? groupId,
@@ -95,7 +95,7 @@ class Cooperatives {
     List<Field>? fields,
     List<FormDatumElement>? formData,
   }) =>
-      Cooperatives(
+      IndividualMember(
         id: id ?? this.id,
         cooperativeId: cooperativeId ?? this.cooperativeId,
         groupId: groupId ?? this.groupId,
@@ -126,12 +126,13 @@ class Cooperatives {
         formData: formData ?? this.formData,
       );
 
-  factory Cooperatives.fromRawJson(String str) =>
-      Cooperatives.fromJson(json.decode(str));
+  factory IndividualMember.fromRawJson(String str) =>
+      IndividualMember.fromJson(json.decode(str));
 
   String toRawJson() => json.encode(toJson());
 
-  factory Cooperatives.fromJson(Map<String, dynamic> json) => Cooperatives(
+  factory IndividualMember.fromJson(Map<String, dynamic> json) =>
+      IndividualMember(
         id: json["id"],
         cooperativeId: json["cooperative_id"],
         groupId: json["group_id"],
@@ -181,18 +182,21 @@ class Cooperatives {
         "cooperative_id": cooperativeId,
         "group_id": groupId,
         "field_data": fieldData,
-        "created_at":
-            "${createdAt!.year.toString().padLeft(4, '0')}-${createdAt!.month.toString().padLeft(2, '0')}-${createdAt!.day.toString().padLeft(2, '0')}",
+        "created_at": createdAt == null
+            ? null
+            : "${createdAt!.year.toString().padLeft(4, '0')}-${createdAt!.month.toString().padLeft(2, '0')}-${createdAt!.day.toString().padLeft(2, '0')}",
         "updated_at": updatedAt?.toIso8601String(),
         "is_complete": isComplete,
         "position": position,
         "date_captured": dateCaptured?.toIso8601String(),
         "name": name,
-        "admission_date":
-            "${admissionDate!.year.toString().padLeft(4, '0')}-${admissionDate!.month.toString().padLeft(2, '0')}-${admissionDate!.day.toString().padLeft(2, '0')}",
+        "admission_date": admissionDate == null
+            ? null
+            : "${admissionDate!.year.toString().padLeft(4, '0')}-${admissionDate!.month.toString().padLeft(2, '0')}-${admissionDate!.day.toString().padLeft(2, '0')}",
         "membership_no": membershipNo,
-        "dob":
-            "${dob!.year.toString().padLeft(4, '0')}-${dob!.month.toString().padLeft(2, '0')}-${dob!.day.toString().padLeft(2, '0')}",
+        "dob": dob == null
+            ? null
+            : "${dob!.year.toString().padLeft(4, '0')}-${dob!.month.toString().padLeft(2, '0')}-${dob!.day.toString().padLeft(2, '0')}",
         "age": age,
         "nationality": nationalityValues.reverse[nationality],
         "id_type": idTypeValues.reverse[idType],
